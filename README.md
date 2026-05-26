@@ -53,6 +53,7 @@ I prepared and cleaned the dataset before analysis:
 **Dendrogram Analysis**
 
 I used the dendrogram to determine the optimal number of clusters by identifying the largest vertical distance between cluster merges.
+![dendrogram](images/dendrogram.png)
 
 Interestingly, the dendrogram also suggested 5 clusteres as in the K-means algorithm.
 This indicated consistency between both clustering approaches and strengthened confidence in the segmentation results.
@@ -60,6 +61,8 @@ This indicated consistency between both clustering approaches and strengthened c
 ## Key Findings
 
 Both clustering algorithms identified similar customer patterns:
+![Visualising segmentation](images/Visualising_segmentation.png)
+
 
 ### High Income — High Spending Customers
 Potential premium customers and strong targets for loyalty programs.
