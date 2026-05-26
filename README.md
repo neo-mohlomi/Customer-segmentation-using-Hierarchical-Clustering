@@ -82,7 +82,7 @@ Both clustering algorithms identified similar customer patterns:
 
 <div align="center">
 
-![Customer Segmentation Visualization](Images/Visualising_segmentation.png)
+![Customer Segmentation Visualization](Images/Visualising%20segmentation.png)
 
 *Figure 2: Customer Segmentation - Visualization of the 5 distinct customer segments based on Income and Spending Score*
 
