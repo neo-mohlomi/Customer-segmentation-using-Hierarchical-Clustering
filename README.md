@@ -18,7 +18,7 @@ My analysis focused mainly on customer annual income and spending behavior to un
 
 Businesses often have access to customer data but may not fully understand the different behaviors that exist within their customer base. Without proper segmentation, marketing strategies and customer engagement efforts may not be optimized for different customer types.
 
-In this project I attempts to answer questions such as:
+In this project I attempt to answer questions such as:
 
 - Which customers spend the most?
 - Are high income customers always high spenders?
