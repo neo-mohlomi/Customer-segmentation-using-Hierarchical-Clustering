@@ -67,7 +67,7 @@ I used the dendrogram to determine the optimal number of clusters by identifying
 
 <div align="center">
 
-![Dendrogram Analysis](images/dendrogram.png)
+![Dendrogram Analysis](Images/dendrogram.png)
 
 *Figure 1: Hierarchical Clustering Dendrogram - Shows the hierarchical structure of customer clusters*
 
@@ -82,7 +82,7 @@ Both clustering algorithms identified similar customer patterns:
 
 <div align="center">
 
-![Customer Segmentation Visualization](images/Visualising_segmentation.png)
+![Customer Segmentation Visualization](Images/Visualising_segmentation.png)
 
 *Figure 2: Customer Segmentation - Visualization of the 5 distinct customer segments based on Income and Spending Score*
 
